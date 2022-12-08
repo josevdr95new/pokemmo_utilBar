@@ -8,8 +8,4 @@ https://pokemmo.com/
 https://visualneo.com/
 
 
-Plugin:
-
-NeoBookScreenCapture
-
-RubberBander
+Plugin: NeoBookScreenCapture, RubberBander
