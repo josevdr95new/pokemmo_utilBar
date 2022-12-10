@@ -45,7 +45,7 @@ VersionProduct=PokeMMOUtilbar
 VersionMajor=0
 VersionMinor=0
 VersionRelease=1
-VersionBuild=13
+VersionBuild=12
 VersionAutoInc=Yes
 ReqExLevel=1
 CustomFontName=Arial
@@ -213,7 +213,7 @@ FillColor=-1
 FillPattern=0
 FillMode=Yes
 Enabled=No
-TabOrder=5
+TabOrder=6
 HMargin=0
 VMargin=0
 ContainerBegin
